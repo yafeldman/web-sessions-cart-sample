@@ -12,9 +12,3 @@ Target war file
 -----------------
 target/cart-1.0.0.war
 
-to run app
-------------
-http://host-name:8080/cart-1.0.0
-
-
-
